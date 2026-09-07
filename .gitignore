@@ -1,0 +1,27 @@
+# -*- mode: gitignore; -*-
+
+.env
+
+################################################################################
+# Editor-specific ignores                                                      #
+################################################################################
+
+# Vim
+*~
+[._]*.sw[a-p]
+[._]sw[a-p]
+[._]*.un~
+Session.vim
+Sessionx.vim
+
+# Visual Studio Code
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+!.vscode/*.code-snippets
+# Local History for Visual Studio Code
+.history/
+# Built Visual Studio Code Extensions
+*.vsix
